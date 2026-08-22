@@ -8,6 +8,18 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 
 ---
 
+## My Story
+
+Born in Türkiye in 1995. My story with technology didn't start in front of a computer. I started working early, as an electrician's apprentice while still in school. Long before writing software, I was learning how systems work through cables and circuits.
+
+For years I didn't even own a computer. I ran a small gaming café, bought one machine for the shop, and that machine changed the direction of my life. I wanted to know what was behind a game, a program, a website. So I started digging, experimenting, and eventually writing code.
+
+No computer science degree. No bootcamp. No prepared career path. I learned what I needed, when I needed it. Small experiments turned into web projects. Web projects took me to servers, SEO, digital advertising, user behavior and product development. At some point I realized what actually drives me is not any particular technology. It's building something from zero.
+
+Technologies change. Countries change. Projects change. What got me here hasn't changed: curiosity, building, and turning an idea into a working system.
+
+---
+
 ## Stack
 
 **Web & Backend**
