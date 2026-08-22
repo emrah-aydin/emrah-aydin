@@ -32,7 +32,11 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C39?logo=firebase&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=appstore&logoColor=white)
 
 **Data & Infrastructure**
 
@@ -45,10 +49,6 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?logo=letsencrypt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
@@ -59,8 +59,6 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=appstore&logoColor=white)
 
 ---
 
