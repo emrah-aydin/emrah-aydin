@@ -15,6 +15,8 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
@@ -34,6 +36,8 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-02569B?logo=flutter&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0175C2?logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C39?logo=firebase&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=appstore&logoColor=white)
@@ -51,6 +55,11 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+**Other**
+
+![SEO](https://img.shields.io/badge/SEO-47A248?logo=googlesearchconsole&logoColor=white)
+![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?logo=discord&logoColor=white)
 
 ---
 
