@@ -1,14 +1,14 @@
 # Emrah Aydın
 
-**Founder & Product Engineer — Intellize**
+**Founder — Intellize · Creator of MonteGO**
 
-I build and operate consumer platforms across Southeast Europe and the United States. My focus is taking products from idea to daily operation: mobile apps, real-time backends, payment integrations, and AI-assisted support.
+I founded Intellize and built **MonteGO** — Montenegro's ride-hailing platform — from idea to daily operation: the passenger and driver apps, the backend and admin systems, the payment integration, the AI-assisted support, and the [montego.app](https://montego.app) website.
 
 ---
 
 ## MonteGO
 
-A complete ride-hailing platform, live across all of Montenegro.
+A complete ride-hailing platform, live across all of Montenegro. Designed, built and operated by Intellize.
 
 - Passenger and driver apps for iOS and Android, built with Flutter
 - Real-time dispatch, scheduled rides, airport and intercity transfers, and a bidding marketplace
@@ -29,7 +29,7 @@ A complete ride-hailing platform, live across all of Montenegro.
 
 ---
 
-## Technology
+## MonteGO Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
@@ -41,7 +41,7 @@ A complete ride-hailing platform, live across all of Montenegro.
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C39?logo=firebase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-Currently migrating the MonteGO backend to **Go + PostgreSQL** for the next stage of scale.
+The platform's next-generation backend is being built on **Go + PostgreSQL**.
 
 ---
 
