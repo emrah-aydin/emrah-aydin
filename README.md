@@ -1,35 +1,38 @@
 # Emrah Aydın
 
-**Founder — Intellize · Creator of MonteGO**
+**Founder of Intellize**
 
-I founded Intellize and built **MonteGO** — Montenegro's ride-hailing platform — from idea to daily operation: the passenger and driver apps, the backend and admin systems, the payment integration, the AI-assisted support, and the [montego.app](https://montego.app) website.
+I build digital products and run them in production. Web, mobile, AI and infrastructure. Based in the Balkans, working across Montenegro, Kosovo and the United States.
 
 ---
 
-## MonteGO
+## What I've Built
 
-A complete ride-hailing platform, live across all of Montenegro. Designed, built and operated by Intellize.
+**[MonteGO](https://montego.app)** · Ride-hailing platform live across all of Montenegro. Passenger and driver apps, real-time dispatch, scheduled rides and transfers, card payments with 3D Secure, AI-powered customer support.
 
-- Passenger and driver apps for iOS and Android, built with Flutter
-- Real-time dispatch, scheduled rides, airport and intercity transfers, and a bidding marketplace
-- Integrated card payments with 3D Secure and automated invoicing
-- Multilingual AI support assistant handling customer conversations end to end
+**[AdriaWeb](https://adriaweb.net)** · Hosting and digital infrastructure serving customers in 25+ countries. Domains, cloud VPS, custom software and e-commerce solutions.
 
-**[montego.app](https://montego.app)**
+**[Intellize](https://intellize.me)** · My software house. Web development, mobile apps, AI agents and workflow automation for businesses.
+
+**MonteCar** · Vehicle rental and booking platform for the Balkans.
+
+**MojAuto** · Car buy and sell marketplace. Coming soon.
+
+**AlbaGO** · The next GO. Coming soon.
 
 ---
 
 ## Companies
 
-| Company | Location | Role |
-|---------|----------|------|
-| Intellize DOO | Montenegro 🇲🇪 | Product development & operations — home of MonteGO |
-| Intellize LLC | Kosovo 🇽🇰 | Engineering & regional operations |
-| KOMA LLC | United States 🇺🇸 | International business & partnerships |
+| Company | Location |
+|---------|----------|
+| Intellize DOO | Montenegro 🇲🇪 |
+| Intellize LLC | Kosovo 🇽🇰 |
+| KOMA LLC | United States 🇺🇸 |
 
 ---
 
-## MonteGO Tech Stack
+## Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
@@ -41,14 +44,11 @@ A complete ride-hailing platform, live across all of Montenegro. Designed, built
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C39?logo=firebase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-The platform's next-generation backend is being built on **Go + PostgreSQL**.
-
 ---
 
 ## Contact
 
-- 🌐 [montego.app](https://montego.app)
-- ✉️ [info@montego.app](mailto:info@montego.app)
+🌐 [intellize.me](https://intellize.me) · ✉️ [info@montego.app](mailto:info@montego.app)
 
 ---
 
