@@ -10,15 +10,15 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 
 ## What I've Built
 
-**[MonteGO](https://montego.app)** · Ride-hailing platform live across all of Montenegro. Passenger and driver apps, real-time dispatch, scheduled rides and transfers, card payments with 3D Secure, AI-powered customer support.
+**[MonteGO](https://montego.app)** · Montenegro's ride-hailing app. Live in every city of the country.
 
-**[AdriaWeb](https://adriaweb.net)** · Hosting and digital infrastructure serving customers in 25+ countries. Domains, cloud VPS, custom software and e-commerce solutions.
+**[AdriaWeb](https://adriaweb.net)** · Hosting and web services in 25+ countries.
 
-**[Intellize](https://intellize.me)** · My software house. Web development, mobile apps, AI agents and workflow automation for businesses.
+**[Intellize](https://intellize.me)** · My software house. Web, mobile and AI.
 
-**MonteCar** · Vehicle rental and booking platform for the Balkans.
+**MonteCar** · Car rental for the Balkans.
 
-**MojAuto** · Car buy and sell marketplace. Coming soon.
+**MojAuto** · Car marketplace. Coming soon.
 
 **AlbaGO** · The next GO. Coming soon.
 
