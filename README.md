@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Intellize&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Software%20that%20moves%20the%20Balkans&descSize=20&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Emrah%20Aydıntext=Intellize&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Founder%20%40%20Intellize%20·%20MonteGO&descSize=20&descAlignY=75" width="100%" />
 </div>
 
 <div align="center">
@@ -93,8 +93,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=intellizellc&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=intellizellc&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=emrah-aydin&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emrah-aydin&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
 </div>
 
 <br/>
@@ -108,7 +108,7 @@
 <a href="mailto:info@montego.app" target="_blank">
 <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/intellizellc" target="_blank">
+<a href="https://github.com/emrah-aydin" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 </div>
