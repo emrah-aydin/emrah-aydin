@@ -53,10 +53,9 @@ Technologies change. Countries change. Projects change. What got me here hasn't 
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C39?logo=firebase&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=appstore&logoColor=white)
-![Google Maps SDK](https://img.shields.io/badge/Google_Maps_SDK-4285F4?logo=googlemaps&logoColor=white)
-![Geolocation](https://img.shields.io/badge/Geolocation-EA4335?logo=googlemaps&logoColor=white)
-![Push Notifications](https://img.shields.io/badge/Push_Notifications-DD2C39?logo=firebase&logoColor=white)
-![Localization](https://img.shields.io/badge/Localization_18_languages-4A154B?logo=googletranslate&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
 **Data & Infrastructure**
 
