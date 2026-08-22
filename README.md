@@ -52,14 +52,6 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-**AI & Services**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white)
-
 ---
 
 ## Contact
