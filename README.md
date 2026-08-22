@@ -41,6 +41,10 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C39?logo=firebase&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=appstore&logoColor=white)
+![Google Maps SDK](https://img.shields.io/badge/Google_Maps_SDK-4285F4?logo=googlemaps&logoColor=white)
+![Geolocation](https://img.shields.io/badge/Geolocation-EA4335?logo=googlemaps&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-DD2C39?logo=firebase&logoColor=white)
+![Localization](https://img.shields.io/badge/Localization_18_languages-4A154B?logo=googletranslate&logoColor=white)
 
 **Data & Infrastructure**
 
@@ -59,6 +63,12 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 **Other**
 
 ![SEO](https://img.shields.io/badge/SEO-47A248?logo=googlesearchconsole&logoColor=white)
+![ASO](https://img.shields.io/badge/ASO-414141?logo=googleplay&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?logo=googleads&logoColor=white)
+![AdSense](https://img.shields.io/badge/AdSense-4285F4?logo=googleadsense&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)
+![Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?logo=googletagmanager&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0081FB?logo=meta&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?logo=discord&logoColor=white)
 
 ---
