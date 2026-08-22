@@ -93,8 +93,33 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=emrah-aydin&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=emrah-aydin&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrah-aydin&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=emrah-aydin&theme=onestar&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emrah-aydin&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" alt="Activity graph" width="95%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrah-aydin/emrah-aydin/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/emrah-aydin/emrah-aydin/output/github-snake.svg" alt="Contribution snake" />
+</picture>
 </div>
 
 <br/>
