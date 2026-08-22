@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Emrah%20Aydın&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Founder%20of%20Intellize%20·%20MonteGO%20·%20AdriaWeb&descSize=20&descAlignY=78" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Emrah%20AYDIN&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 </div>
 
 **Founder of Intellize**
