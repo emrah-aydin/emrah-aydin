@@ -8,32 +8,6 @@ I build digital products and run them in production. Web, mobile, AI and infrast
 
 ---
 
-## What I've Built
-
-**[MonteGO](https://montego.app)** · Montenegro's ride-hailing app. Live in every city of the country.
-
-**[AdriaWeb](https://adriaweb.net)** · Hosting and web services in 25+ countries.
-
-**[Intellize](https://intellize.me)** · My software house. Web, mobile and AI.
-
-**MonteCar** · Car rental for the Balkans.
-
-**MojAuto** · Car marketplace. Coming soon.
-
-**AlbaGO** · The next GO. Coming soon.
-
----
-
-## Companies
-
-| Company | Location |
-|---------|----------|
-| Intellize DOO | Montenegro 🇲🇪 |
-| Intellize LLC | Kosovo 🇽🇰 |
-| KOMA LLC | United States 🇺🇸 |
-
----
-
 ## Stack
 
 **Web & Backend**
