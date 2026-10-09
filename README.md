@@ -86,7 +86,7 @@ Technologies change. Countries change. Projects change. What got me here hasn't 
 
 ## Contact
 
-🌐 [intellize.me](https://intellize.me) · ✉️ [info@intellize.llc](mailto:info@intellize.llc)
+🌐 [intellize.llc](https://intellize.llc) · ✉️ [info@intellize.llc](mailto:info@intellize.llc)
 
 ---
 
