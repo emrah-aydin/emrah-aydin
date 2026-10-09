@@ -4,7 +4,7 @@
 
 **Founder of Intellize**
 
-I build digital products and run them in production. Web, mobile, AI and infrastructure. Based in the Balkans, working across Montenegro, Kosovo and the United States.
+I build digital products and run them in production. Web, mobile, AI and infrastructure. Based in Spain, working across Montenegro, Kosovo and the United States.
 
 ---
 
@@ -86,7 +86,7 @@ Technologies change. Countries change. Projects change. What got me here hasn't 
 
 ## Contact
 
-🌐 [intellize.me](https://intellize.me) · ✉️ [info@montego.app](mailto:info@montego.app)
+🌐 [intellize.me](https://intellize.me) · ✉️ [info@intellize.llc](mailto:info@intellize.llc)
 
 ---
 
