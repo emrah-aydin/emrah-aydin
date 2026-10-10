@@ -2,7 +2,7 @@
 <img src="assets/banner.svg" width="100%" alt="Emrah AYDIN" />
 </div>
 
-**Founder of Intellize**
+**Founder of INTELLIZE LLC**
 
 I build digital products and run them in production. Web, mobile, AI and infrastructure. Based in Kosovo, working across Montenegro, Spain and the United States.
 
